@@ -1,2 +1,5 @@
+# Raw and generated datasets
 data/raw/
+data/cleaned/*.xlsx
+
 .DS_Store
